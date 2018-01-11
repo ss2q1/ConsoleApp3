@@ -8,7 +8,7 @@ namespace ConsoleApp3
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) #test
         {
         }
     }
